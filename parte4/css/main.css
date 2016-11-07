@@ -1,8 +1,8 @@
 div{
+    
     width: 200px;
     height: 200px;
     position:relative;
-    
 }
 
 body{
@@ -12,14 +12,12 @@ body{
 
 .magenta{
     background-color: #ee3e64;
-    
 }
 
 .azul{
     
     background-color: #44accf;
     left: 200px;
-    
 
 }
 
