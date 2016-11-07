@@ -1,0 +1,40 @@
+div{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.magenta{
+    background-color: #ee3e64;
+    top: 0;
+    right: 0;
+        
+}
+
+.azul{
+    
+    background-color: #44accf;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.verde{
+    
+    background-color: #b7d84b;
+    top: 0;
+    left: 0;
+    
+}
+.amarillo{
+    background-color: yellow;
+    bottom: 0;
+    right: 0;
+    
+}
