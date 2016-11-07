@@ -12,14 +12,14 @@ body{
 
 .magenta{
     background-color: #ee3e64;
-   
-        
+
 }
 
 .azul{
     
     background-color: #44accf;
-  left: 200px;
+      position: absolute;
+    left: 200px;
 }
 
 .verde{
